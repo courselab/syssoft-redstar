@@ -8,23 +8,23 @@ Guilherme Ramos Costa Paixão - 11796079
 
 Compilação
 
-![](USP/sys/imgs/untitled-4_20230717202901959.png)
+![](imgs/untitled-4_20230717202901959.png)
 
 Adiciona-se um breakpoint na main através do GDB:
 
-![](USP/sys/imgs/untitled-4_20230717203258310.png)
+![](imgs/untitled-4_20230717203258310.png)
 
 Após rodar, o programa para na *main* e é feito um disassemble:
 
-![](USP/sys/imgs/untitled-4_20230717203453748.png)
+![](imgs/untitled-4_20230717203453748.png)
 
 Em seguida, é criado o arquivo eg-09.elf:
 
-![](USP/sys/imgs/untitled-4_20230717203623170.png)
+![](imgs/untitled-4_20230717203623170.png)
 
 E com o ELF criado, executando-o, temos a mensagem do exploit: "Hacked!".
 
-![](USP/sys/imgs/untitled-4_20230717203729626.png)
+![](imgs/untitled-4_20230717203729626.png)
 
 **Explicando o exploit**
 
